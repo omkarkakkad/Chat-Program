@@ -11,4 +11,4 @@ print("Nice!!")
 print("Happy to meet you.")
 
 end = input("Type something: ")
-print("Over")
+print("We had a nice conversation hope you enjoyed it!!")
